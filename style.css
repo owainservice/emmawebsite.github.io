@@ -10,7 +10,7 @@ html, body {
 }
 
 .jumbotron {
-  background: url(monkey.jpg) no-repeat center center;
+  background: url('monkey.JPG') no-repeat center center;
   background-size: cover;
   height: 800px;
 }
